@@ -5,4 +5,4 @@ to run them you can copy and paste the code into the online compilor   --> https
 
 you can edit them how yo wish as well and have a laugh. i think there is an auto-update
 
-the lanage is in javascript.
+the language is in javascript.
